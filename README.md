@@ -1,7 +1,7 @@
 # DesignPattern-设计模式
 * [适配器模式（Adapter Pattern)](https://edu.aliyun.com/lesson_471_4538?spm=5176.10731542.0.0.58Re2s#_4538)
 [adapter](https://github.com/LeoLuZhang/DesignPattern/tree/master/src/adapter)
-
+* * *
 * [建造者模式（Builder Pattern)](https://edu.aliyun.com/lesson_471_4539?spm=5176.10731542.0.0.kVawI6#_4539)
 [Builder](https://github.com/LeoLuZhang/DesignPattern/tree/master/src/adapter)
 * [工厂模式（Factory Pattern)](https://edu.aliyun.com/lesson_471_4542?spm=5176.10731542.0.0.b2z0oJ#_4542)
@@ -15,7 +15,8 @@
 * [过滤器模式（Filter Pattern)](https://edu.aliyun.com/lesson_471_4548?spm=5176.10731542.0.0.YUxVMw#_4548)
 [Filter](https://github.com/LeoLuZhang/DesignPattern/tree/master/src/adapter)
 * [组合模式（Composite Pattern)](https://edu.aliyun.com/lesson_471_4549?spm=5176.10731542.0.0.xF8FBG#_4549)
-[Composite](https://github.com/LeoLuZhang/DesignPattern/tree/master/src/adapter)
+[Composite](https://github.com/LeoLuZhang/DesignPattern/tree/master/src/adapt)
+* * *
 
 * [装饰器模式（Decorator Pattern)](https://edu.aliyun.com/lesson_471_4550?spm=5176.10731542.0.0.y4FhfZ#_4550)
 [decorator](https://github.com/LeoLuZhang/DesignPattern/tree/master/src/decorator)
