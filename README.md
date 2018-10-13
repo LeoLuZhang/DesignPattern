@@ -59,5 +59,12 @@
 [Front Controller](https://github.com/LeoLuZhang/DesignPattern/tree/master/src/FrontController)
 * [拦截过滤器模式(Intercepting Filter)](https://edu.aliyun.com/lesson_471_4576?spm=5176.10731542.0.0.WdhHcg#_4576)
 [Intercepting Filter](https://github.com/LeoLuZhang/DesignPattern/tree/master/src/InterceptingFilter)
+* [服务定位器模式(Service Locator)](https://edu.aliyun.com/lesson_471_4578?spm=5176.10731542.0.0.rMQwrS#_4578)
+[Service Locator](https://github.com/LeoLuZhang/DesignPattern/tree/master/src/Service Locator)
+* [传输对象(Transfer Object)](https://edu.aliyun.com/lesson_471_4579?spm=5176.10731542.0.0.oRK5yf#_4579)
+[Transfer Object](https://github.com/LeoLuZhang/DesignPattern/tree/master/src/Transfer Object)
+* [设计模式资源](https://edu.aliyun.com/lesson_471_4580?spm=5176.10731542.0.0.W64Mge#_4580)
+
+
 
 
