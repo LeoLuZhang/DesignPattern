@@ -41,5 +41,7 @@
 [Observer](https://github.com/LeoLuZhang/DesignPattern/tree/master/src/Observer)
 * [状态模式(State Pattern)](https://edu.aliyun.com/lesson_471_4564?spm=5176.10731542.0.0.mc6R3y#_4564)
 [State](https://github.com/LeoLuZhang/DesignPattern/tree/master/src/State)
+* [空对象模式(Null Object Pattern)](https://edu.aliyun.com/lesson_471_4565?spm=5176.10731542.0.0.T02FAE#_4565)
+[Null Object](https://github.com/LeoLuZhang/DesignPattern/tree/master/src/NullObject)
 
 
