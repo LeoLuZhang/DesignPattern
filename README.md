@@ -23,7 +23,7 @@
 [Facade](https://github.com/LeoLuZhang/DesignPattern/tree/master/src/Facade)
 * [享元模式（Flyweight Pattern)](https://edu.aliyun.com/lesson_471_4552?spm=5176.10731542.0.0.I2iRgl#_4552)
 [Flyweight](https://github.com/LeoLuZhang/DesignPattern/tree/master/src/Flyweight)
-* [代理模式（Proxy Pattern](https://edu.aliyun.com/lesson_471_4554?spm=5176.10731542.0.0.pnqO4V#_4554)
+* [代理模式（Proxy Pattern)](https://edu.aliyun.com/lesson_471_4554?spm=5176.10731542.0.0.pnqO4V#_4554)
 [Proxy](https://github.com/LeoLuZhang/DesignPattern/tree/master/src/Proxy)
 * [责任链模式（Chain of Responsibility Pattern)](https://edu.aliyun.com/lesson_471_4555?spm=5176.10731542.0.0.5lyV78#_4555)
 [Chain](https://github.com/LeoLuZhang/DesignPattern/tree/master/src/Chain)
