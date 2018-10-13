@@ -49,5 +49,7 @@
 [Template](https://github.com/LeoLuZhang/DesignPattern/tree/master/src/Template)
 * [访问者模式(Visitor Pattern)](https://edu.aliyun.com/lesson_471_4569?spm=5176.10731542.0.0.ELXQ1L#_4569)
 [Visitor](https://github.com/LeoLuZhang/DesignPattern/tree/master/src/Visitor)
+* [MVC模式(MVC Pattern)](https://edu.aliyun.com/lesson_471_4570?spm=5176.10731542.0.0.WbwRmc#_4570)
+[MVC](https://github.com/LeoLuZhang/DesignPattern/tree/master/src/MVC)
 
 
