@@ -18,7 +18,7 @@
 * [组合模式（Composite Pattern)](https://edu.aliyun.com/lesson_471_4549?spm=5176.10731542.0.0.xF8FBG#_4549)
 [Composite](https://github.com/LeoLuZhang/DesignPattern/tree/master/src/Composite)
 * [装饰器模式（Decorator Pattern)](https://edu.aliyun.com/lesson_471_4550?spm=5176.10731542.0.0.y4FhfZ#_4550)
-[decorator](https://github.com/LeoLuZhang/DesignPattern/tree/master/src/decorator)
+[decorator](https://github.com/LeoLuZhang/DesignPattern/tree/master/src/Decorator)
 * [外观模式（Facade Pattern)](https://edu.aliyun.com/lesson_471_4551?spm=5176.10731542.0.0.n33wYn#_4551)
 [Facade](https://github.com/LeoLuZhang/DesignPattern/tree/master/src/Facade)
 * [享元模式（Flyweight Pattern)](https://edu.aliyun.com/lesson_471_4552?spm=5176.10731542.0.0.I2iRgl#_4552)
