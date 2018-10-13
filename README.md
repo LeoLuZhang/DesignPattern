@@ -6,7 +6,7 @@
 * [工厂模式（Factory Pattern)](https://edu.aliyun.com/lesson_471_4542?spm=5176.10731542.0.0.b2z0oJ#_4542)
 [Factory](https://github.com/LeoLuZhang/DesignPattern/tree/master/src/Factory)
 * [抽象工厂模式（AbstractFactory Pattern)](https://edu.aliyun.com/lesson_471_4544?spm=5176.10731542.0.0.vpwIkc#_4544)
-[AbstractFactory](https://github.com/LeoLuZhang/DesignPattern/tree/master/src/Factory)
+[AbstractFactory](https://github.com/LeoLuZhang/DesignPattern/tree/master/src/AbstractFactory)
 * [单例模式（Singleton Pattern)](https://edu.aliyun.com/lesson_471_4545?spm=5176.10731542.0.0.xDpTOs#_4545)
 [Singleton](https://github.com/LeoLuZhang/DesignPattern/tree/master/src/SingletonPattern)
 * [原型模式（Prototype Pattern)](https://edu.aliyun.com/lesson_471_4546?spm=5176.10731542.0.0.Gd0ZcK#_4546)
