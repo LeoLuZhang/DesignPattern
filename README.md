@@ -1,4 +1,5 @@
 # DesignPattern-设计模式
+* [设计模式资源](https://edu.aliyun.com/lesson_471_4580?spm=5176.10731542.0.0.W64Mge#_4580)
 * [适配器模式（Adapter Pattern)](https://edu.aliyun.com/lesson_471_4538?spm=5176.10731542.0.0.58Re2s#_4538)
 [Adapter](https://github.com/LeoLuZhang/DesignPattern/tree/master/src/Adapter)
 * [建造者模式（Builder Pattern)](https://edu.aliyun.com/lesson_471_4539?spm=5176.10731542.0.0.kVawI6#_4539)
@@ -63,7 +64,7 @@
 [Service Locator](https://github.com/LeoLuZhang/DesignPattern/tree/master/src/Service Locator)
 * [传输对象(Transfer Object)](https://edu.aliyun.com/lesson_471_4579?spm=5176.10731542.0.0.oRK5yf#_4579)
 [Transfer Object](https://github.com/LeoLuZhang/DesignPattern/tree/master/src/Transfer Object)
-* [设计模式资源](https://edu.aliyun.com/lesson_471_4580?spm=5176.10731542.0.0.W64Mge#_4580)
+
 
 
 
