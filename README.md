@@ -43,5 +43,7 @@
 [State](https://github.com/LeoLuZhang/DesignPattern/tree/master/src/State)
 * [空对象模式(Null Object Pattern)](https://edu.aliyun.com/lesson_471_4565?spm=5176.10731542.0.0.T02FAE#_4565)
 [Null Object](https://github.com/LeoLuZhang/DesignPattern/tree/master/src/NullObject)
+* [策略模式(Strategy Pattern)](https://edu.aliyun.com/lesson_471_4566?spm=5176.10731542.0.0.BKHDCM#_4566)
+[Strategy](https://github.com/LeoLuZhang/DesignPattern/tree/master/src/Strategy)
 
 
