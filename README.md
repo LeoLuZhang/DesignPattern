@@ -57,5 +57,7 @@
 [Data Access](https://github.com/LeoLuZhang/DesignPattern/tree/master/src/DataAccess)
 * [前端控制器模式(Front Controller)](https://edu.aliyun.com/lesson_471_4575?spm=5176.10731542.0.0.sX59Ef#_4575)
 [Front Controller](https://github.com/LeoLuZhang/DesignPattern/tree/master/src/FrontController)
+* [拦截过滤器模式(Intercepting Filter)](https://edu.aliyun.com/lesson_471_4576?spm=5176.10731542.0.0.WdhHcg#_4576)
+[Intercepting Filter](https://github.com/LeoLuZhang/DesignPattern/tree/master/src/InterceptingFilter)
 
 
