@@ -47,5 +47,7 @@
 [Strategy](https://github.com/LeoLuZhang/DesignPattern/tree/master/src/Strategy)
 * [模板模式(Template Pattern)](https://edu.aliyun.com/lesson_471_4568?spm=5176.10731542.0.0.Xlg8KV#_4568)
 [Template](https://github.com/LeoLuZhang/DesignPattern/tree/master/src/Template)
+* [访问者模式(Visitor Pattern)](https://edu.aliyun.com/lesson_471_4569?spm=5176.10731542.0.0.ELXQ1L#_4569)
+[Visitor](https://github.com/LeoLuZhang/DesignPattern/tree/master/src/Visitor)
 
 
