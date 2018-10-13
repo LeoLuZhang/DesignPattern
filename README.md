@@ -28,7 +28,7 @@
 * [责任链模式（Chain of Responsibility Pattern)](https://edu.aliyun.com/lesson_471_4555?spm=5176.10731542.0.0.5lyV78#_4555)
 [Chain](https://github.com/LeoLuZhang/DesignPattern/tree/master/src/Chain)
 * [命令模式（Command Pattern)](https://edu.aliyun.com/lesson_471_4557?spm=5176.10731542.0.0.on90RV#_4557)
-[Command1](https://github.com/LeoLuZhang/DesignPattern/tree/master/src/Command1)
+[Command](https://github.com/LeoLuZhang/DesignPattern/tree/master/src/Command)
 * [解释器模式（Interpreter Pattern)](https://edu.aliyun.com/lesson_471_4559?spm=5176.10731542.0.0.yDlu1x#_4559)
 [Interpreter](https://github.com/LeoLuZhang/DesignPattern/tree/master/src/Interpreter)
 * [迭代器模式（Iterator Pattern)](https://edu.aliyun.com/lesson_471_4560?spm=5176.10731542.0.0.kDY842#_4560)
