@@ -53,5 +53,7 @@
 [MVC](https://github.com/LeoLuZhang/DesignPattern/tree/master/src/MVC)
 * [业务代表模式(Business Delegate)](https://edu.aliyun.com/lesson_471_4572?spm=5176.10731542.0.0.1A8OaW#_4572)
 [Business Delegate](https://github.com/LeoLuZhang/DesignPattern/tree/master/src/BusinessDelegate)
+* [数据库访问对象模式(Data Access)](https://edu.aliyun.com/lesson_471_4574?spm=5176.10731542.0.0.3SpdYJ#_4574)
+[Data Access](https://github.com/LeoLuZhang/DesignPattern/tree/master/src/DataAccess)
 
 
