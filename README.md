@@ -39,5 +39,7 @@
 [Memto](https://github.com/LeoLuZhang/DesignPattern/tree/master/src/Memento)
 * [观察者模式(Observer Pattern)](https://edu.aliyun.com/lesson_471_4563?spm=5176.10731542.0.0.69llM9#_4563)
 [Observer](https://github.com/LeoLuZhang/DesignPattern/tree/master/src/Observer)
+* [状态模式(State Pattern)](https://edu.aliyun.com/lesson_471_4563?spm=5176.10731542.0.0.69llM9#_4563)
+[State](https://github.com/LeoLuZhang/DesignPattern/tree/master/src/State)
 
 
