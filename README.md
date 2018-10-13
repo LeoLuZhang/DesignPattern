@@ -51,5 +51,7 @@
 [Visitor](https://github.com/LeoLuZhang/DesignPattern/tree/master/src/Visitor)
 * [MVC模式(MVC Pattern)](https://edu.aliyun.com/lesson_471_4570?spm=5176.10731542.0.0.WbwRmc#_4570)
 [MVC](https://github.com/LeoLuZhang/DesignPattern/tree/master/src/MVC)
+* [业务代表模式(Business Delegate)](https://edu.aliyun.com/lesson_471_4572?spm=5176.10731542.0.0.1A8OaW)
+[Business Delegate](https://github.com/LeoLuZhang/DesignPattern/tree/master/src/BusinessDelegate)
 
 
