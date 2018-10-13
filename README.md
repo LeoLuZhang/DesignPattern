@@ -55,5 +55,7 @@
 [Business Delegate](https://github.com/LeoLuZhang/DesignPattern/tree/master/src/BusinessDelegate)
 * [数据库访问对象模式(Data Access)](https://edu.aliyun.com/lesson_471_4574?spm=5176.10731542.0.0.3SpdYJ#_4574)
 [Data Access](https://github.com/LeoLuZhang/DesignPattern/tree/master/src/DataAccess)
+* [前端控制器模式(Front Controller)](https://edu.aliyun.com/lesson_471_4575?spm=5176.10731542.0.0.sX59Ef#_4575)
+[Front Controller](https://github.com/LeoLuZhang/DesignPattern/tree/master/src/FrontController)
 
 
