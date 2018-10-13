@@ -1,5 +1,5 @@
-package Designpattern.Flyweight;
+package Flyweight;
 
 public interface Shape {
-    void draw();
+    public void draw();
 }

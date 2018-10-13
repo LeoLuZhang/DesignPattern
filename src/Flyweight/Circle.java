@@ -1,15 +1,12 @@
-package Designpattern.Flyweight;
-
-import Designpattern.Facade.Shape;
+package Flyweight;
 
 public class Circle implements Shape{
-
     private String color;
     private int x;
     private int y;
     private int radius;
 
-    public Circle(String color) {
+    public Circle(String color){
         this.color = color;
     }
 
@@ -26,8 +23,10 @@ public class Circle implements Shape{
     }
 
     @Override
-    public void draw(){
+    public void draw() {
         System.out.println("Circle: Draw() [Color : " + color
                 +", x : " + x +", y :" + y +", radius :" + radius);
     }
+
+
 }

@@ -1,4 +1,4 @@
-package Designpattern.Flyweight;
+package Flyweight;
 
 import java.util.*;
 public class ShapeFactory {
