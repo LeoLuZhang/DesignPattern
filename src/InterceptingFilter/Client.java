@@ -1,0 +1,18 @@
+package InterceptingFilter;
+
+/**
+ * InterceptingFilter
+ * Leo
+ * 2018/10/14
+ */
+public class Client {
+    FilterManager filterManager;
+
+    public void setFilterManager(FilterManager filterManager){
+        this.filterManager = filterManager;
+    }
+
+    public void sendRequest(String request){
+        filterManager.filterRequest(request);
+    }
+}

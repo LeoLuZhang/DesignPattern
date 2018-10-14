@@ -1,0 +1,13 @@
+package InterceptingFilter;
+
+/**
+ * InterceptingFilter
+ * Leo
+ * 2018/10/14
+ */
+public class AuthenticationFilter implements Filter{
+    @Override
+    public void execute(String request){
+        System.out.println("Authenticating request: " + request);
+    }
+}
